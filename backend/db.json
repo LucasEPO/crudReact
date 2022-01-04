@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Lucas Principal",
+      "email": "lucas.epoliveira@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Lucas Estudante",
+      "email": "lucasepo@estudante.ufscar.br",
+      "id": 2
+    },
+    {
+      "name": "Lucas Dcomp",
+      "email": "lucas.oliveira@dcomp.sor.ufscar.br",
+      "id": 3
+    }
+  ]
+}
